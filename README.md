@@ -1,11 +1,3 @@
-# CraftUp
-
-CraftUp is a habit-forming learning app that teaches real product skills through short, interactive daily lessons.  
-It’s designed for founders, product managers, designers, engineers, and solo builders who want to validate ideas, build MVPs, find users, and grow faster.
-
-📲 Website: [https://craftuplearn.com](https://craftuplearn.com)  
-📱 Available on [iOS]([https://apps.apple.com/us/app/craftup-learn-product-skills/id6748829614](https://apps.apple.com/us/app/craftup-learn-product-skills/id6748829614)) and [Android]([https://play.google.com/store/apps/details?id=com.andreamezzadra.craftup](https://play.google.com/store/apps/details?id=com.andreamezzadra.craftup))
-
 # CraftUp – Habit-Forming Courses to Learn Product Skills
 
 CraftUp is a habit-forming learning app that helps you learn product by doing.  
