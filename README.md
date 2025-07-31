@@ -1,4 +1,4 @@
-# CraftUp – Habit-Forming Courses to Learn Product Skills
+# CraftUp – Learn Product Skills
 
 CraftUp is a habit-forming learning app that helps you learn product by doing.  
 Through short, interactive courses, it teaches you how to build, validate, and grow real products, whether you're a product manager, founder, designer, or developer.
