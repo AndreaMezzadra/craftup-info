@@ -68,9 +68,9 @@ Whether you’re launching your first product or want to learn product deeply, C
 
 ## 📲 Try CraftUp
 
-- 🌐 Website: [https://craftuplearn.com]([https://craftuplearn.com](https://craftuplearn.com))
-- 📱 iOS App: [Download on the App Store]([https://apps.apple.com/us/app/craftup-learn-product-skills/id6748829614](https://apps.apple.com/us/app/craftup-learn-product-skills/id6748829614))
-- 🤖 Android App: [Get it on Google Play]([https://play.google.com/store/apps/details?id=com.andreamezzadra.craftup](https://play.google.com/store/apps/details?id=com.andreamezzadra.craftup))
+- 🌐 Website: [https://craftuplearn.com](https://craftuplearn.com)
+- 📱 iOS App: [Download on the App Store](https://apps.apple.com/us/app/craftup-learn-product-skills/id6748829614)
+- 🤖 Android App: [Get it on Google Play](https://play.google.com/store/apps/details?id=com.andreamezzadra.craftup)
 
 ---
 
