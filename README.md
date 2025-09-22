@@ -25,16 +25,17 @@ CraftUp is perfect if you're tired of theory and want to build real skills, one 
 
 ## 📚 What you’ll learn
 
-CraftUp helps you learn product thinking in a structured, practical way.  
+CraftUp helps you learn product thinking in a structured, practical way.
 Each course focuses on one area of the product development journey:
 
-- How to find real problems worth solving
-- How to validate ideas before building
-- How to design and test MVPs
-- How to build feedback loops into your product
-- How to recognize product-market fit
-- How to make product trade-offs and prioritization calls
-- How to think like a product manager or founder
+- [**Master Problem Validation**](https://craftuplearn.com/courses/master-problem-validation) – Test if a problem is real before you invest in building.
+- [**Product Discovery**](https://craftuplearn.com/courses/product-discovery) – Turn insights into opportunities and structured discovery bets.
+- [**Find Your First Users**](https://craftuplearn.com/courses/find-your-first-users) – Acquire your early users with practical, modern techniques.
+- [**Early Stage Growth**](https://craftuplearn.com/courses/early-stage-growth) – Scale traction with shareability, content, referrals, SEO, and more.
+- [**Product Management Foundations**](https://craftuplearn.com/courses/product-management-foundations) – Learn the essentials of product management and product thinking.
+- [**Land Your First Product Role**](https://craftuplearn.com/courses/land-your-first-product-role) – Get hired as a PM and succeed from day one.
+
+👉 [See all courses here](https://craftuplearn.com/courses)
 
 ---
 
